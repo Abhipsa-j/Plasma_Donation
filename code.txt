@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html  style="background-color: black;">
+<head>
+    <title> PLASMA DONATION ✨</title>
+        <link rel="icon" href="star.png">
+        
+</head>
+
+<body>
+    <div style="padding-top:40px; color:red ; text-align:center; font-family:monospace ; font-size: xx-large;">
+    <h1> PLASMA DONATION</h1>
+    </div>
+    <div style="color: white; padding: 200px; font-size: x-large; font-family:monospace ; padding-left: 300px; padding-right: 300px ; padding-top: 20px; text-align: center;">
+        
+    <p>
+        <img src = "hospital.jpg" style="width: 700px;">
+        <br><br>
+        <br>
+        <h2>ELIGIBILITY</h2>
+        <h4>Do you know about convalescent plasma, which is taken from a person who has been cured of corona infection. In short, it may be a promising alternative in the treatment of plasma COVID-19 disease.
+
+If you have ever been infected with corona and have become corona negative after infection, you have been treated for 14 days and you are feeling healthy then only you are eligible to donate Convalescent Plasma.
+
+By becoming a plasma donor, with your priceless plasma, you can give a new ho
+Donor Eligibility for Plasma Donation</h4>
+    </p>
+    </div>
+</body>
+</html>
